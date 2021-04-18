@@ -1,4 +1,4 @@
-Oi, sou elisabeth, mas pode dizer, lisa. 
+Oi, sou elisabeth, mas pode me chama, lisa. 
 
 Aqui para aprender, html, css, bootstrap, js e php
 
